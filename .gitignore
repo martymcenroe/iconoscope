@@ -60,3 +60,5 @@ local-settings.*
 *.sql
 *.log
 EOF
+# Unleashed session transcripts (auto-generated, untracked)
+data/unleashed/
